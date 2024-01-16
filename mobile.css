@@ -194,6 +194,10 @@
         margin-top: 1rem;
     }
 
+    .card-left h1{
+        font-size: 2rem;
+    }
+
     .card .imgs{
         width: 80%;
         height: 48%;
