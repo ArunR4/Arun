@@ -173,6 +173,8 @@
     }
 
     .card{
+        min-height: 75vh;
+        gap: 4%;
         flex-direction: column-reverse;
         justify-content: flex-start;
         align-items: center;
@@ -181,6 +183,7 @@
 
     .card-left{
         width: 80%;
+        height: 48%;
         padding-top: 3rem;
         text-align: center;
         justify-content: center;
@@ -193,11 +196,13 @@
 
     .card .imgs{
         width: 80%;
+        height: 48%;
     }
 
     .card .imgs img{
+        height: 100%;
         width: 100%;
-        object-fit: cover;
+        object-fit: fill;
     }
 
     .break{
