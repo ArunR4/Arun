@@ -173,10 +173,10 @@
     }
 
     .card{
-        min-height: 75vh;
+        min-height: 98vh;
         gap: 4%;
         flex-direction: column-reverse;
-        justify-content: flex-start;
+        justify-content: space-between;
         align-items: center;
         margin: 4rem auto;
     }
@@ -195,7 +195,7 @@
     }
 
     .card-left h1{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .card .imgs{
