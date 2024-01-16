@@ -131,6 +131,7 @@ nav h1{
 }
 
 .left p , .about-right p{
+    text-align: justify;
     font-weight: 500;
     opacity: 0.8;
 }
@@ -397,6 +398,7 @@ nav h1{
 .card-left p{
     font-weight: 500;
     opacity: 0.7;
+     text-align: justify;
 }
 
 .card-left a{
