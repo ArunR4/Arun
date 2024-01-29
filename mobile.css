@@ -55,6 +55,7 @@
         height: 24px;
         width: 30px;
         cursor: pointer;
+        z-index: 10;
     }
 
     .mobile-nav-icon span{
